@@ -1,0 +1,22 @@
+
+
+.main-block {
+  padding: 100px;
+}
+
+.whitelist-btn {
+  padding-top: 100px;
+  text-align: center;
+}
+
+.btn-lg{
+  margin: 20px;
+}
+.image-logo {
+  margin: auto;
+  display: block;
+}
+.participants_number{
+  margin-top: 20px;
+  text-align: center;
+}
